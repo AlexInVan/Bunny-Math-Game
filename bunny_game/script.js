@@ -43,7 +43,7 @@ pauseTimer()
   }
 
 
-  const startingTime = 40; // in seconds
+  const startingTime = 60; // in seconds
   let timeLeft = startingTime;
   let timerId;
   
